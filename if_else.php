@@ -10,6 +10,6 @@ echo "Voce tem $idade anos <br> " . PHP_EOL;//A variavel de ambiente PHP_EOL é 
 echo "Acesso liberado!!! <br>"; // A tag <br> server para quebra uma linha
 }   
     else {
-            echo "Novinho!<br>";
+            echo "Idade menor que 18!<br>";
         }
 ?>
