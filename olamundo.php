@@ -5,6 +5,6 @@ Um resultado - Um arquivo
 
 ~/Área de Trabalho/teste.php:
   1: <?php
-     echo "ola mundo!!";
+     echo "Ola Mundo!!";
 
   2  
